@@ -1,0 +1,25 @@
+:root {
+  /* for theme */
+  --color-primary: #33bda3;
+  --color-secondary: #536390;
+  --color-font: #424242;
+  --color-bg: #fff;
+  --color-heading: #292922;
+
+  /* another colors */
+  --color-green: #66bb6a;
+  --color-white: #fff;
+  --color-white-dark: #ccc;
+
+  /* font */
+  --font-family-primary: Georgia, Times, serif;
+  --font-family-secondary: "Lato", sans-serif;
+}
+
+[data-theme="dark"] {
+  --color-primary: #20d5b3;
+  --color-secondary: #818cab;
+  --color-font: #e1e1ff;
+  --color-bg: #161625;
+  --color-heading: #818cab;
+}
