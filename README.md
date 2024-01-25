@@ -9,15 +9,15 @@
 
 ### Главная страница сайта:
 
-![Alt-текст](https://github.com/genkoshkarev/vue-reviews/blob/main/screen_1.PNG?raw=true "Главная страница сайта")
+![Alt-текст](https://github.com/mirich90/vue-reviews/blob/main/screen_1.PNG?raw=true "Главная страница сайта")
 
 ### Темная тема сайта:
 
-![Alt-текст](https://github.com/genkoshkarev/vue-reviews/blob/main/screen_2.PNG?raw=true "Темная тема сайта")
+![Alt-текст](https://github.com/mirich90/vue-reviews/blob/main/screen_2.PNG?raw=true "Темная тема сайта")
 
 ### Список пользователей с сортировкой:
 
-![Alt-текст](https://github.com/genkoshkarev/vue-reviews/blob/main/screen_3.PNG?raw=true "Список пользователей с сортировкой")
+![Alt-текст](https://github.com/mirich90/vue-reviews/blob/main/screen_3.PNG?raw=true "Список пользователей с сортировкой")
 
 ## Project setup
 
